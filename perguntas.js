@@ -5,19 +5,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da Paris?',
-    'A capital de Paris é Diadema'
+    'Dexter',
+    'Dexter Morgan tinha um irmão? Se sim, quem?',
+    'Sim, Brian Moser'
 )
 
 criaCartao(
-    'História',
+    '',
     'Qual a cor do cavalo "Branco" de Napoleão?',
     'Só sei que não era verde'
 )
 
 criaCartao(
-    'Lingua inglesa',
+    '',
     'O que significa "i love you"?',
     'Quer dizer morena em Francês'
 )
