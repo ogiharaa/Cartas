@@ -1,7 +1,7 @@
 criaCartao(
-    'Conhecimentos gerais',
-    'Quem nasceu primeiro, o ovo ou a galinha?',
-    'Um bom agrônimo diria: depende'
+    'Vikings',
+    'Quem é pai de Bjorn Ironside?',
+    'Ragnar Lothbrok'
 )
 
 criaCartao(
