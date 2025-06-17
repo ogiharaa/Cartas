@@ -12,12 +12,12 @@ criaCartao(
 
 criaCartao(
     '',
-    'Qual a cor do cavalo "Branco" de Napoleão?',
-    'Só sei que não era verde'
+    'Qual era o grande sonho de Ragnar Lothbrok?',
+    'Explorar e conquistar terras ao oeste.'
 )
 
 criaCartao(
     '',
-    'O que significa "i love you"?',
-    'Quer dizer morena em Francês'
+    'Quem é o protagonista de Red Dead Redemption 2?',
+    'Arthur Morgan.'
 )
